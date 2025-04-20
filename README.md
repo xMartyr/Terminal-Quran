@@ -2,10 +2,18 @@
 
 > 📥 **[Support my work](https://paypal.me/jetbl7ck)** – If you benefit from this tool, consider donating to help keep it alive and improving.
 
-A minimalistic command-line Qur’an reader for Linux systems.  
-Built with **.NET 9** and designed for **speed**, **privacy**, and **offline use**.  
-Perfect for developers, sysadmins, and CLI warriors who want instant access to the Qur’an  
-without opening a browser or app.
+        The Terminal Qur'an is a .NET 9 Console Application that provides
+        Prayer Times and easy offline-access to the Holy Qur'an.
+
+        Features includes;
+        - get prayer times
+        - a list of the 99 names of Allah
+        - read the Qur'an by a simple index input
+        - search for verses with a prompt
+        - get random verses with an index
+
+        InSha'Allah (God Willing), that the application
+        is beneficial to you in knowledge and truth.
 
 ---
 
