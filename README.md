@@ -15,11 +15,11 @@ Features includes;
 - get random verses with an index
 
 InSha'Allah (God Willing), that the application is beneficial to you in knowledge and truth.
-
+---
 <p align="center">
   <img src="media/Demo.gif" alt="Terminal Quran Demo" style="max-width:100%; border-radius:10px;">
 </p>
-
+---
 ## 📦 Git Clone the Repository
 
 ```bash
