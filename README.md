@@ -16,7 +16,9 @@ Features includes;
 
 InSha'Allah (God Willing), that the application is beneficial to you in knowledge and truth.
 
----
+<p align="center">
+  <img src="media/2.png" alt="Terminal Quran Preview" style="max-width:100%; border-radius:10px;">
+</p>
 
 ## 📦 Git Clone the Repository
 
