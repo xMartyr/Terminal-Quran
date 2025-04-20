@@ -1,10 +1,6 @@
-Perfect — let's update your `README.md` with **donation links** placed **elegantly at both the top and bottom**. We’ll also add a clear and respectful call to action that doesn’t feel like begging but still encourages support.
-
-Here’s the **fully upgraded `README.md`**:
-
 ---
 
-```markdown
+
 # 🕋 Terminal Qur'an — `termoquran`
 
 > 📥 **[Support my work](https://paypal.me/jetbl7ck)** – If you benefit from this tool, consider donating to help keep it alive and improving.
@@ -15,7 +11,7 @@ Perfect for developers, sysadmins, and CLI warriors who want instant access to t
 without opening a browser or app.
 
 ---
-
+```markdown
 ## 📦 Git Clone the Repository
 
 ```bash
