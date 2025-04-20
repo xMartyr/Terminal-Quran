@@ -96,12 +96,8 @@ May this tool be beneficial. Feel free to fork, contribute, and share.
 
 ---
 
-### ❤️ Enjoying `termoquran`?
+### ❤️ Enjoying Terminal Qur'an?
 
 > 🕋 Support future Islamic open-source projects:  
 > 👉 [paypal.me/jetbl7ck](https://paypal.me/jetbl7ck)
 ```
-
----
-
-Want a version with badges or social meta preview thumbnails too? I can make it even more slick.
