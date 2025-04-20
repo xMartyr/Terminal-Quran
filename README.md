@@ -117,3 +117,11 @@ May this tool be beneficial. Feel free to fork, contribute, and share.
 
 > 🕋 Support future Islamic open-source projects:
 > 👉 [paypal.me/jetbl7ck](https://paypal.me/jetbl7ck)
+
+---
+
+<p align="center">
+  <img src="media/2.png" alt="Terminal Quran 2" style="max-width:100%; border-radius:10px;">
+</p>
+
+---
