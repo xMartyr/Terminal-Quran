@@ -93,11 +93,10 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## 🙏 Bismillah
 
 May this tool be beneficial. Feel free to fork, contribute, and share.
-
 ---
 
 ### ❤️ Enjoying Terminal Qur'an?
 
-> 🕋 Support future Islamic open-source projects:  
-> 👉 [paypal.me/jetbl7ck](https://paypal.me/jetbl7ck)
+> 🕋 Support future Islamic open-source projects:
 ```
+> 👉 [paypal.me/jetbl7ck](https://paypal.me/jetbl7ck)
