@@ -1,6 +1,3 @@
----
-
-
 # 🕋 Terminal Qur'an — `termoquran`
 
 > 📥 **[Support my work](https://paypal.me/jetbl7ck)** – If you benefit from this tool, consider donating to help keep it alive and improving.
