@@ -8,7 +8,7 @@ Perfect for developers, sysadmins, and CLI warriors who want instant access to t
 without opening a browser or app.
 
 ---
-```markdown
+
 ## 📦 Git Clone the Repository
 
 ```bash
