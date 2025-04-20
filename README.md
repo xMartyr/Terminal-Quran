@@ -98,5 +98,4 @@ May this tool be beneficial. Feel free to fork, contribute, and share.
 ### ❤️ Enjoying Terminal Qur'an?
 
 > 🕋 Support future Islamic open-source projects:
-```
 > 👉 [paypal.me/jetbl7ck](https://paypal.me/jetbl7ck)
