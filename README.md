@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="media/1.png" alt="Terminal Quran" style="max-width:100%; border-radius: 10px;">
+</p>
 # 🕋 Terminal Qur'an — `termoquran`
 
 > 📥 **[Support my work](https://paypal.me/jetbl7ck)** – If you benefit from this tool, consider donating to help keep it alive and improving.
