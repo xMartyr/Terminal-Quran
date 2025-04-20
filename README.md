@@ -13,6 +13,8 @@ without opening a browser or app.
 
 ```bash
 git clone https://github.com/xMartyr/Terminal-Quran.git
+```
+```bash
 cd Terminal-Quran
 ```
 
