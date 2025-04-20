@@ -1,0 +1,25 @@
+﻿        =====================================================================
+
+        © 2025 xMartyr - All Rights Reserved.
+
+        Terminal Qur'an is a C# Console Application that
+        provides access to the Holy Qur'an.
+
+        | We do NOT collect any user or device data!
+        | The certainty of this claim can be confirmed by examining the code.
+
+        Please note that the Qur'an Library content script is open-source
+        and may be copied to be used for other projects.
+
+        However, the Terminal Qur'an application may NOT be edited, modified,
+        or distributed in any way without our express written permission.
+
+        If you have any questions or concerns about our Privacy Policy,
+        please don't hesitate to contact us on Discord.
+
+        An expanded contact information is listed in the "5. About" section,
+        through the Main menu.
+
+        © 2025 xMartyr - All Rights Reserved.
+
+        =====================================================================
