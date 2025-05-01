@@ -61,6 +61,14 @@ sudo apt update -y && apt install -y dotnet-sdk-9.0
 
 ---
 
+# Get permission:
+
+```bash
+sudo chmod +x termoquran
+```
+
+---
+
 # You can now run it:
 
 ```bash
