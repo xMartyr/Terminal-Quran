@@ -40,7 +40,7 @@ cd Terminal-Quran
 
 ## ⚙️ Install .NET 9 on Linux
 
-> Required to build and run `termoquran`.
+> Required to build and run `Terminal Quran`.
 
 ### 🧪 Step-by-step:
 
@@ -76,7 +76,7 @@ This will generate the output in:
 You can now run it manually:
 
 ```bash
-./bin/Release/net9.0/termoquran
+./bin/Release/net9.0/`Terminal Quran`
 ```
 
 ---
