@@ -40,7 +40,7 @@ cd Terminal-Quran
 
 ## ⚙️ Install .NET 9 on Linux
 
-> Required to build and run `Terminal Quran`.
+> Required to run `Terminal Quran`.
 
 ### 🧪 Step-by-step:
 
@@ -61,46 +61,10 @@ sudo apt update -y && apt install -y dotnet-sdk-9.0
 
 ---
 
-## 🛠️ Build the Project
+# You can now run it:
 
 ```bash
-dotnet build -c Release
-```
-
-This will generate the output in:
-
-```bash
-./bin/Release/net9.0/
-```
-
-You can now run it manually:
-
-```bash
-./bin/Release/net9.0/`Terminal Quran`
-```
-
----
-
-## 🌍 Optional: Install Globally on Linux
-
-To make `termoquran` available system-wide:
-
-```bash
-sudo cp ./bin/Release/net9.0/termoquran /usr/local/bin/termoquran
-```
-
-Now just run it from anywhere:
-
-```bash
-termoquran
-```
-
----
-
-## ✅ Uninstall (if needed)
-
-```bash
-sudo rm /usr/local/bin/termoquran
+./termoquran
 ```
 
 ---
